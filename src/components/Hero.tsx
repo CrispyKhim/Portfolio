@@ -7,9 +7,9 @@ export default function Hero() {
 
             {/* Links */}
             <div>
-                <a href="mailto:christopherkhim668@gmail.com" className="inline-flex items-center px-5 py-2.5 rounded-md text-sm font-medium bg-accent text-white border border-accent hover:bg-accent-dark hover:border-accent-dark transition-all duration-200 no-underline">Get in Touch!</a>
-                <a href="https://github.com/crispykhim" target="_blank" rel="noopener noreferrer" className="inline-flex items-center px-5 py-2.5 rounded-md text-sm font-medium bg-transparent text-ink border border-border hover:border-muted transition-all duration-200 no-underline">GitHub</a>
-                <a href="https://www.linkedin.com/in/ckhim" target="_blank" rel="noopener noreferrer" className="inline-flex items-center px-5 py-2.5 rounded-md text-sm font-medium bg-transparent text-ink border border-border hover:border-muted transition-all duration-200 no-underline">LinkedIn</a>
+                <a href="mailto:christopherkhim668@gmail.com" className="inline-flex items-center px-4 py-2 rounded-md text-sm font-medium text-white border">Get in Touch!</a>
+                <a href="https://github.com/crispykhim" target="_blank" rel="noopener noreferrer" className="inline-flex items-center px-4 py-2 rounded-md text-sm font-medium bg-transparent border border-border">GitHub</a>
+                <a href="https://www.linkedin.com/in/ckhim" target="_blank" rel="noopener noreferrer" className="inline-flex items-center px-4 py-2 rounded-md text-sm font-medium bg-transparent border border-border">LinkedIn</a>
             </div>
         </section>
     )
